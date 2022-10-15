@@ -46,7 +46,7 @@ section .contentBx .formBx
 }
 section .contentBx .formBx h2
 {
-  color: #658798;
+  color: #daf6ff;
   font-weight: 600;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -54,8 +54,9 @@ section .contentBx .formBx h2
   border-bottom: 4px solid#ff4584;
   display: inline-block;
   letter-spacing: 1px;
-  font-family: ShareTechMono;
+  font-family:ShareTechMono;
   letter-spacing: 6px;
+  text-shadow: 0 0 20px rgb(10 175 230), 0 0 20px rgb(10 175 230 / 0%);
 }
 section .contentBx .formBx .inputBx{
     margin-bottom: 20px;
