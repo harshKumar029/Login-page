@@ -55,6 +55,7 @@ section .contentBx .formBx h2
   display: inline-block;
   letter-spacing: 1px;
   font-family: ShareTechMono;
+  letter-spacing: 6px;
 }
 section .contentBx .formBx .inputBx{
     margin-bottom: 20px;
